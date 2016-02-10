@@ -1,0 +1,38 @@
+{
+  "name": "generator-gulp-es6-webapp",
+  "version": "0.1.0",
+  "description": "A Yeoman generator for powerful ES6 web apps",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronaldloyko/generator-gulp-es6-webapp.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "es6",
+    "babel",
+    "gulp",
+    "es2015",
+    "webapp",
+    "app",
+    "scaffold"
+  ],
+  "author": "Ronald Loyko <ronald.loyko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ronaldloyko/generator-gulp-es6-webapp/issues"
+  },
+  "homepage": "https://github.com/ronaldloyko/generator-gulp-es6-webapp#readme",
+  "dependencies": {
+    "yeoman-generator": "^0.22.5"
+  },
+  "devDependencies": {
+    "mkdirp": "^0.5.1",
+    "mocha": "^2.4.5",
+    "yeoman-assert": "^2.1.1",
+    "yeoman-test": "^1.0.0"
+  }
+}
