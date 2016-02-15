@@ -4,7 +4,8 @@
   "description": "<%= projectDescription %>",
   "directories": {
     "src": "./src",
-    "dist": "./dist"
+    "dist": "./dist",
+    "test": "./test"
   },
   "scripts": {
     "test": "./node_modules/.bin/eslint src/js && ./node_modules/.bin/mocha --compilers js:babel-core/register",
@@ -15,5 +16,6 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/<%= githubUser %>/<%= projectName %>.git"
-  }
+  },
+  "author": "<%= githubUser %>"
 }
