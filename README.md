@@ -1,4 +1,8 @@
-# Gulp + ES6 Web-App Generator [![Build Status](https://secure.travis-ci.org/ronaldloyko/generator-gulp-es6-webapp.png?branch=master)](https://travis-ci.org/ronaldloyko/generator-gulp-es6-webapp) [![NPM](https://nodei.co/npm/generator-gulp-es6-webapp.png?mini=true)](https://nodei.co/npm/generator-gulp-es6-webapp/)
+![Logo](https://github.com/ronaldloyko/generator-gulp-es6-webapp/raw/master/logo.png)
+
+# Gulp + ES6 Web-App Generator
+
+[![Build Status](https://secure.travis-ci.org/ronaldloyko/generator-gulp-es6-webapp.png?branch=master)](https://travis-ci.org/ronaldloyko/generator-gulp-es6-webapp) [![NPM](https://nodei.co/npm/generator-gulp-es6-webapp.png?mini=true)](https://nodei.co/npm/generator-gulp-es6-webapp/)
 
 A [Yeoman](http://yeoman.io/) generator for powerful ES6 web apps.
 
