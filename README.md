@@ -6,8 +6,6 @@
 
 A [Yeoman](http://yeoman.io/) generator for powerful ES6 web apps.
 
-Need the suitable backend? Check out [Gulp + ES6 Server Generator](https://github.com/ronaldloyko/generator-gulp-es6-server)!
-
 ### Features
 
 #### Modular high quality ES6 JavaScript.
