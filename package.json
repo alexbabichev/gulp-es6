@@ -1,10 +1,10 @@
 {
-  "name": "generator-gulp-es6-webapp",
+  "name": "generator-gulp-es6",
   "version": "0.1.1",
   "description": "A Yeoman generator for powerful ES6 web apps",
   "main": "app/index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -35,5 +35,8 @@
     "yeoman-assert": "^2.1.1",
     "yeoman-test": "^1.0.0"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "directories": {
+    "test": "test"
+  }
 }
